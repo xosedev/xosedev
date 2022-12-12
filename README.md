@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Xosedev</h1>
-<h3 align="center">A passionate FullStack developer from Chile</h3>
+<h1 align="center">Hi 👋, I'm Xose</h1>
+<h3 align="center">A passionate FullStack developer from Chile, I have with Java, Node Js, Angular, React, React Native among others. Development of mobile and web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xosedev&label=Profile%20views&color=0e75b6&style=flat" alt="xosedev" /> </p>
 
@@ -9,19 +9,21 @@
 
 - 🔭 I’m currently working on **Falabella Tech**
 
-- 🌱 I’m currently learning **English, GCP, Python**
+- 🌱 I’m currently learning **English, GCP, Python, Unity**
 
-- 👯 I’m looking to collaborate on **React, NodeJs, Springboot**
+- 👯 I’m looking to collaborate on **React, NodeJs, Springboot, Unity**
 
-- 🤝 I’m looking for help with **React, NodeJs, Springboot**
+- 🤝 I’m looking for help with **React, NodeJs, Springboot, Java, TypeScript**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 💬 Ask me about **React, Angular, Java, TypeScript, JavaScript**
+- 💬 Ask me about **React, Angular, Java, TypeScript, JavaScript,Architecture**
 
-- 📫 How to reach me **xosedev**
+- 📫 How to reach me **xosedev@gmail.com**
 
 - 📄 Know about my experiences [xosedev.com](xosedev.com)
+
+- ⚡ Fun fact **I am fans of videogames and soccer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
