@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xose</h1>
+<h1 align="center">Hi 👋, I'm Xosedev</h1>
 <h3 align="center">A passionate FullStack developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xosedev&label=Profile%20views&color=0e75b6&style=flat" alt="xosedev" /> </p>
